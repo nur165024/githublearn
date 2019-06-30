@@ -33,4 +33,10 @@
 21. 	$git push
 
 
+22.	$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+23.	$ eval $(ssh-agent -s)
+24.	$ ssh-add ~/.ssh/id_rsa
+25.	$ clip < ~/.ssh/id_rsa.pub
+
+
 
