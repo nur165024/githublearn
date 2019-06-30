@@ -28,5 +28,9 @@
 
 20.	$touch file name
 
+**new repository create kora pore link dite hobe tar por 2ta commend use korte hobe. ai 2ta commend github a deya thakbe.
+	
+21. 	$git push
+
 
 
