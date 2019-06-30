@@ -1,2 +1,32 @@
-i am nura alam
-he is web developer
+1.	$git init
+
+2.	$git config --global user.name "user name"
+3.	$git config --global user.email "user email"
+4.	$git config user.name "user name"
+5.	$git config user.email "user email"
+6.	$git config --list
+
+7.	$git status
+
+8.	$git add "file name"
+9.	$git add .
+10.	$git add --all
+
+11.	$git log
+12.	$git log --oneline
+
+13.	$git checkout "code dite hobe"
+14.	$git checkout master
+
+15.	$git diff
+16.	$git diff --staged
+
+17.	$git show "code dite hobe"
+
+18.	$git rm file name
+19.	$git reset HEAD file name
+
+20.	$touch file name
+
+
+
