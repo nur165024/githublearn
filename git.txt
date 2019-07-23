@@ -12,6 +12,8 @@
 9.	$git add .
 10.	$git add --all
 
+	$git commit -m "name dite hobe"
+	
 11.	$git log
 12.	$git log --oneline
 
